@@ -34,6 +34,6 @@ public class StudentMain {
 		for (Student s : c3.getStudents()) {
 			System.out.println(s);
 		}
-
+		
 	}
 }
